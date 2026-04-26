@@ -66,15 +66,7 @@ java --module-path /path/to/javafx/lib --add-modules javafx.controls,javafx.fxml
 
 ---
 
-##  Project Structure
 
-```
-/project-root
-│── src/
-│── include/
-│── database/
-│── assets/
-│── README.md
 ```
 
 ---
